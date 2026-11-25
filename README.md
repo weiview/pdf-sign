@@ -4,6 +4,9 @@
 
 ## 怎麼用
 
+**線上直接用：https://weiview.github.io/pdf-sign/**（手機也可以）
+
+
 直接用瀏覽器（Chrome／Edge／Safari／Firefox）開 `index.html` 即可；需要連網載入
 pdf.js、pdf-lib 與 Google Fonts（jsDelivr／Google CDN）。
 
